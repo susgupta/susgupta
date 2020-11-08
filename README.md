@@ -1,3 +1,5 @@
+[![Header](https://github.com/susgupta/js_typing/blob/master/sus_intro.gif)](https://github.com/susgupta/)
+
 ### Hi there 👋
 
 :heart: Programming | :black_heart: Video Games | :blue_heart: Sci-Fi
