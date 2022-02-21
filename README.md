@@ -31,7 +31,7 @@ User Experience Design Lead (with development skills) in retail banking technolo
 
 <p>
   <code>
-     <a href="https://www.figma.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/figma/figma-ar21.svg"></a>
+     <a href="https://www.figma.com/" target="_blank"><img height="50" src="figma-ar21.svg"></a>
   </code>
   <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a>
   </code>
