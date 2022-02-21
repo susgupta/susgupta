@@ -2,27 +2,45 @@
 
 ### Hi there 👋
 
-:heart: Programming | :black_heart: Video Games | :blue_heart: Sci-Fi
+:heart: User Experience Design | :heart: Programming | :black_heart: Video Games | :blue_heart: Sci-Fi
 
 <p align="left">
-I am a full stack developer from Canada :canada:. A coding enthusiast with passion to learn new technologies, code them, with a passion for UI design
+I am a User Experience Design Lead (with full stack development skills) from Canada :canada:. A design/coding enthusiast with passion to learn new technologies, code them, with a passion for UI design
 </p>
 
 **💼 Currently working as:**
 
-Full Stack Developer in retail banking technology at <a href="https://www.cibc.com/en/personal-banking.html" target="_blank"><b>CIBC</b></a>
+User Experience Design Lead (with development skills) in retail banking technology at <a href="https://www.cibc.com/en/personal-banking.html" target="_blank"><b>CIBC</b></a>
 
 - 🌱 I’m currently learning ...
 
-<p><code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
-<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code></p>
-<p><b>UI Design</b></p>
+<p>
+  <code>
+     <a href="https://www.figma.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/figma/figma-ar21.svg"></a>
+  </code>
+  <code>
+    <a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a>
+  </code>
+  <code>
+     <a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a>
+  </code>
+</p>
+
 
 - 💬 Ask me about ...
 
-<p><code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
-<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
-<code><a href="https://git-scm.com//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code></p>
+<p>
+  <code>
+     <a href="https://www.figma.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/figma/figma-ar21.svg"></a>
+  </code>
+  <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a>
+  </code>
+<code>
+  <a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
+<code>
+  <a href="https://git-scm.com//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a>
+  </code>
+</p>
 <p><b>.NET</b></p>
 <p><b>Java</b></p>
 
